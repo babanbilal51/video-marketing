@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="">
+    <title>‘Advance WordPress Mastery Kit’</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"
+      type="text/css">
+    <!--[if IE]>
+      <link rel="stylesheet" type="text/css" href="css/style_ie.css"/>  	<![endif]-->
+    <!-- Inline CSS -->
+    <style type="text/css"> h1, h2, h3, h4, h5, h6, a, p, span { font-family: 'Roboto', sans-serif;}a{ color: #fff; }</style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <div style="background-color: #232a3e; padding: 4% 0;">
+          <div class="container">
+            <div class="row" style="text-align: center; height: 91px; margin-top: -32px;"><img
+                src="images/header.png" alt="Online Viral Marketing Secrets" class="center-block img-responsive"
+                style="width: 449px; height: 122px;"></div>
+          </div>
+        </div>
+      </header>
+      <div class="main">
+        <div style=" background-color: #fafafa; padding: 0;">
+          <div class="container">
+            <h2 style="color: #000;text-align: center;margin: 20px 0; padding-top: 10px;"><b>Contact
+                Us</b></h2>
+          </div>
+        </div>
+        <div style="background: #fafafa; padding: 1% 0;min-height: 400px;">
+          <h2 style="margin: 30px 0px; text-align: center;"><u>Address: </u></h2>
+          <h4 style="text-align: center;">Bilal digital office. &nbsp;&nbsp; <span
+              style="color: #3366ff;"></span></h4>
+          <h4 style="text-align: center;"><span style="color: #3366ff;">Pattoki
+              - Raiwind Rd, Kot Radha Kishan, Kasur, Punjab, Pakistan</span></h4>
+          <h2 style="margin: 30px 0px; text-align: center;">Mobile Phone No. <u><span
+                style="color: #3366ff;">+92 3245514456</span></u></h2>
+          <h2 style="margin: 30px 0px; text-align: center;">Please email us at [<span
+              style="color: #3366ff;">babanbilal51@gmail.com</span>] for any
+            concern or issues.</h2>
+        </div>
+      </div>
+      <footer style="background: #161313;text-align: center;padding: 1% 0;">
+        <p style="font-size: 14px; color: white; margin-bottom: 0px;" align="center"><a
+            href="privacy-policy.html" target="_blank">Privacy Policy</a> | <a
+            href="support.html">legal Notice</a></p>
+      </footer>
+    </div>
+  </body>
+</html>
